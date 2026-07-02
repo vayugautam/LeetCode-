@@ -1,35 +1,58 @@
+import java.util.*;
+
 class Solution {
+
     int[][] dir = {{1,0},{-1,0},{0,1},{0,-1}};
+
     public boolean findSafeWalk(List<List<Integer>> grid, int health) {
+
         int m = grid.size();
         int n = grid.get(0).size();
-        int[][] dp = new int[m][n];
-        for(int[] row : dp){
-            Arrays.fill(row,-1);
-        }
-        boolean[][] vis = new boolean[m][n];
-        return dfs(0,0,health,grid,vis,dp);
-    }
-    boolean dfs(int i,int j,int health,List<List<Integer>> grid,boolean[][] vis,int[][] dp){
-        int m = grid.size();
-        int n = grid.get(0).size();
-        if(grid.get(i).get(j)==1){
-            health--;
-        }
-        if(health<=0) return false;
-        if(i==m-1 && j==n-1) return true;
-        // Already visited this cell before with equal or more health
-        if(dp[i][j]>=health) return false;
-        dp[i][j]=health;
-        vis[i][j]=true;
-        for(int[] d : dir){
-            int ni=i+d[0];
-            int nj=j+d[1];
-            if(ni>=0 && nj>=0 && ni<m && nj<n && !vis[ni][nj]) {
-                if(dfs(ni,nj,health,grid,vis,dp)) return true;
+
+        int[][] dist = new int[m][n];
+
+        for (int[] row : dist)
+            Arrays.fill(row, Integer.MAX_VALUE);
+
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[2] - b[2]);
+
+        int startCost = grid.get(0).get(0);
+
+        dist[0][0] = startCost;
+        pq.offer(new int[]{0, 0, startCost});
+
+        while (!pq.isEmpty()) {
+
+            int[] cur = pq.poll();
+
+            int x = cur[0];
+            int y = cur[1];
+            int cost = cur[2];
+
+            if (cost > dist[x][y])
+                continue;
+
+            if (x == m - 1 && y == n - 1)
+                break;
+
+            for (int[] d : dir) {
+
+                int nx = x + d[0];
+                int ny = y + d[1];
+
+                if (nx < 0 || ny < 0 || nx >= m || ny >= n)
+                    continue;
+
+                int newCost = cost + grid.get(nx).get(ny);
+
+                if (newCost < dist[nx][ny]) {
+
+                    dist[nx][ny] = newCost;
+                    pq.offer(new int[]{nx, ny, newCost});
+                }
             }
-        } 
-        vis[i][j]=false;
-        return false;
+        }
+
+        return dist[m - 1][n - 1] < health;
     }
 }
