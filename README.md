@@ -25,6 +25,7 @@
 | [0015-3sum](https://github.com/vayugautam/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/vayugautam/LeetCode-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vayugautam/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/vayugautam/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/vayugautam/LeetCode-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vayugautam/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/vayugautam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vayugautam/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vayugautam/LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -157,4 +159,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vayugautam/LeetCode-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vayugautam/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
