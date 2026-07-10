@@ -28,6 +28,7 @@
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/vayugautam/LeetCode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vayugautam/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/vayugautam/LeetCode-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/vayugautam/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vayugautam/LeetCode-/tree/master/0202-happy-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vayugautam/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vayugautam/LeetCode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vayugautam/LeetCode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -54,6 +56,7 @@
 | [0076-minimum-window-substring](https://github.com/vayugautam/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/vayugautam/LeetCode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vayugautam/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/vayugautam/LeetCode-/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/vayugautam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vayugautam/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vayugautam/LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
