@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/vayugautam/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/vayugautam/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vayugautam/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/vayugautam/LeetCode-/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/vayugautam/LeetCode-/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vayugautam/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
