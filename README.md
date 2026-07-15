@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vayugautam/LeetCode-/tree/master/0202-happy-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vayugautam/LeetCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vayugautam/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vayugautam/LeetCode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vayugautam/LeetCode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -206,4 +207,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0918-maximum-sum-circular-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vayugautam/LeetCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
