@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/vayugautam/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vayugautam/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/vayugautam/LeetCode-/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/vayugautam/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vayugautam/LeetCode-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vayugautam/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/vayugautam/LeetCode-/tree/master/0724-find-pivot-index) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vayugautam/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vayugautam/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vayugautam/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
