@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/vayugautam/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vayugautam/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/vayugautam/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vayugautam/LeetCode-/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/vayugautam/DSA/tree/master/0904-fruit-into-baskets) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vayugautam/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/vayugautam/LeetCode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vayugautam/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vayugautam/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vayugautam/LeetCode-/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vayugautam/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vayugautam/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vayugautam/LeetCode-/tree/master/3513-number-of-unique-xor-triplets-i) |
