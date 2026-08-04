@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/vayugautam/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/vayugautam/LeetCode-/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/vayugautam/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vayugautam/LeetCode-/tree/master/0287-find-the-duplicate-number) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vayugautam/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/vayugautam/LeetCode-/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/vayugautam/LeetCode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vayugautam/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
@@ -320,4 +322,8 @@
 | ------- |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/vayugautam/LeetCode-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
