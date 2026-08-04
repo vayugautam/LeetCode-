@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vayugautam/LeetCode-/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/vayugautam/LeetCode-/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/vayugautam/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vayugautam/LeetCode-/tree/master/0287-find-the-duplicate-number) |
