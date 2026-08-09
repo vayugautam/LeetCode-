@@ -23,6 +23,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vayugautam/LeetCode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/vayugautam/LeetCode-/tree/master/0986-interval-list-intersections) |
+| [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vayugautam/LeetCode-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/vayugautam/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/vayugautam/LeetCode-/tree/master/1288-remove-covered-intervals) |
@@ -78,6 +79,7 @@
 | [0486-predict-the-winner](https://github.com/vayugautam/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vayugautam/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vayugautam/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -99,6 +101,7 @@
 | [0486-predict-the-winner](https://github.com/vayugautam/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vayugautam/LeetCode-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/vayugautam/LeetCode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
@@ -158,6 +161,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vayugautam/LeetCode-/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vayugautam/LeetCode-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vayugautam/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vayugautam/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vayugautam/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -327,16 +331,19 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/vayugautam/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
 ## Quicksort
 |  |
