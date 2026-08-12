@@ -203,6 +203,7 @@
 | [0013-roman-to-integer](https://github.com/vayugautam/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/vayugautam/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vayugautam/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/vayugautam/LeetCode-/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vayugautam/LeetCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vayugautam/LeetCode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -384,4 +385,8 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vayugautam/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/vayugautam/LeetCode-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
