@@ -16,6 +16,7 @@
 | [0525-contiguous-array](https://github.com/vayugautam/LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vayugautam/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/vayugautam/LeetCode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vayugautam/LeetCode-/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vayugautam/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vayugautam/LeetCode-/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/vayugautam/LeetCode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vayugautam/LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vayugautam/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
