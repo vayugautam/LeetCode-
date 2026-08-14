@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vayugautam/LeetCode-/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/vayugautam/LeetCode-/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/vayugautam/LeetCode-/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/vayugautam/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/vayugautam/LeetCode-/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/vayugautam/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/vayugautam/LeetCode-/tree/master/0486-predict-the-winner) |
@@ -321,6 +323,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vayugautam/LeetCode-/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vayugautam/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
