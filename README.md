@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vayugautam/LeetCode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vayugautam/LeetCode-/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/vayugautam/LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/vayugautam/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/vayugautam/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vayugautam/LeetCode-/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/vayugautam/LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/vayugautam/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/vayugautam/LeetCode-/tree/master/0486-predict-the-winner) |
@@ -264,6 +266,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/vayugautam/LeetCode-/tree/master/0063-unique-paths-ii) |
 | [1260-shift-2d-grid](https://github.com/vayugautam/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vayugautam/LeetCode-/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vayugautam/LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
