@@ -1,18 +1,17 @@
 class Solution {
     public int arrayNesting(int[] nums) {
         int n = nums.length;
-        boolean[] visited = new boolean[n];
-        int ans=0;
-        for(int k=0;k<n;k++){
-            if(visited[k]) continue;
-            int current=k;
-            int count=0;
-            while(!visited[current]){
-                visited[current]=true;
+        HashSet<Integer> hs = new HashSet<>();
+        int ans = Integer.MIN_VALUE;
+        for(int i = 0 ; i < n ; i++){
+            int j = i;
+            int count = 0;
+            while(!hs.contains(nums[j])){
+                hs.add(nums[j]);
+                j = nums[j];
                 count++;
-                current=nums[current];
             }
-            ans=Math.max(ans,count);
+            ans = Math.max(ans , count);
         }
         return ans;
     }
