@@ -41,6 +41,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vayugautam/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vayugautam/LeetCode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vayugautam/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vayugautam/LeetCode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vayugautam/LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vayugautam/LeetCode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -95,6 +96,7 @@
 | [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vayugautam/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vayugautam/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vayugautam/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vayugautam/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -173,6 +175,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vayugautam/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vayugautam/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -246,6 +249,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vayugautam/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vayugautam/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vayugautam/LeetCode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vayugautam/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -373,18 +377,21 @@
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
 | ------- |
@@ -427,4 +434,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vayugautam/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
