@@ -1,55 +1,45 @@
 class Solution {
-    int[] dirx = {-1, 1, 0, 0};
-    int[] diry = {0, 0, -1, 1};
-
+    int[] dirx = {-1,1,0,0};
+    int[] diry = {0,0,-1,1};    
     public int orangesRotting(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-
         Queue<int[]> q = new LinkedList<>();
-        int fresh = 0;
-        int time = 0;
+        int fresh=0;
+        int time=0;
+        for(int i=0;i<n;i++){
+            for(int j =0;j<m;j++){
+                if(grid[i][j]==2){
+                    q.offer(new int[]{i,j});
+                    grid[i][j]=-2;
 
-        // Step 1: Find all rotten and fresh oranges
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 2) {
-                    q.offer(new int[]{i, j});
-                    grid[i][j] = -2;
-                } else if (grid[i][j] == 1) {
+                }else if(grid[i][j]==1){
                     fresh++;
                 }
             }
         }
-
-        // Step 2: BFS
-        while (!q.isEmpty() && fresh > 0) {
+        while(!q.isEmpty() && fresh>0){
             time++;
-
             int s = q.size();
-
-            while (s-- > 0) {
+            while(s-->0){
                 int[] p = q.poll();
-
                 int r = p[0];
                 int c = p[1];
-
-                for (int k = 0; k < 4; k++) {
-                    int row = r + dirx[k];
-                    int col = c + diry[k];
-
-                    if (valid(row, col, n, m) && grid[row][col] == 1) {
-                        q.offer(new int[]{row, col});
-                        grid[row][col] = -2;
+                for(int k=0;k<4;k++){
+                    int row=r+dirx[k];
+                    int col = c+diry[k];
+                    if(valid(row,col,n,m) && grid[row][col]==1){
+                        q.offer(new int[]{row,col});
+                        grid[row][col]=-2;
                         fresh--;
                     }
                 }
-            }
+
+            }   
         }
         return fresh > 0 ? -1 : time;
     }
-
-    boolean valid(int i, int j, int n, int m) {
-        return i >= 0 && i < n && j >= 0 && j < m;
+    boolean valid(int i,int j,int n,int m){
+        return i>=0 && i<n && j>=0 && j<m;
     }
 }
