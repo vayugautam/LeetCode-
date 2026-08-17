@@ -20,6 +20,7 @@
 | [0525-contiguous-array](https://github.com/vayugautam/LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vayugautam/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/vayugautam/LeetCode-/tree/master/0565-array-nesting) |
+| [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/vayugautam/LeetCode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -75,6 +76,7 @@
 | [0015-3sum](https://github.com/vayugautam/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/vayugautam/LeetCode-/tree/master/0056-merge-intervals) |
+| [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/vayugautam/LeetCode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vayugautam/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
@@ -140,6 +142,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vayugautam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/vayugautam/LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vayugautam/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vayugautam/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/vayugautam/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vayugautam/LeetCode-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -175,6 +178,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
 | [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vayugautam/LeetCode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vayugautam/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -247,6 +251,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vayugautam/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
@@ -272,6 +277,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vayugautam/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vayugautam/LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vayugautam/LeetCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
