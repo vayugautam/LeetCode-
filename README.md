@@ -30,6 +30,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vayugautam/LeetCode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/vayugautam/LeetCode-/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/vayugautam/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vayugautam/LeetCode-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/vayugautam/LeetCode-/tree/master/1260-shift-2d-grid) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vayugautam/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0994-rotting-oranges](https://github.com/vayugautam/LeetCode-/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vayugautam/LeetCode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vayugautam/LeetCode-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vayugautam/LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vayugautam/LeetCode-/tree/master/0063-unique-paths-ii) |
+| [0994-rotting-oranges](https://github.com/vayugautam/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/vayugautam/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vayugautam/LeetCode-/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vayugautam/LeetCode-/tree/master/2812-find-the-safest-path-in-a-grid) |
