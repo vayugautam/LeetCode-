@@ -39,6 +39,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/vayugautam/LeetCode-/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vayugautam/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/vayugautam/LeetCode-/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vayugautam/LeetCode-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vayugautam/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vayugautam/LeetCode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -98,6 +99,7 @@
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/vayugautam/LeetCode-/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vayugautam/LeetCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vayugautam/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -128,6 +130,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vayugautam/LeetCode-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/vayugautam/LeetCode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/vayugautam/LeetCode-/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vayugautam/LeetCode-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vayugautam/LeetCode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/vayugautam/LeetCode-/tree/master/3620-network-recovery-pathways) |
@@ -386,6 +389,7 @@
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vayugautam/LeetCode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vayugautam/LeetCode-/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/vayugautam/LeetCode-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/vayugautam/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
