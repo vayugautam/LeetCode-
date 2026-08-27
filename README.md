@@ -246,6 +246,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vayugautam/LeetCode-/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vayugautam/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vayugautam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/vayugautam/LeetCode-/tree/master/0796-rotate-string) |
@@ -387,6 +388,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -486,4 +488,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vayugautam/LeetCode-/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
