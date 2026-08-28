@@ -77,6 +77,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vayugautam/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0986-interval-list-intersections](https://github.com/vayugautam/LeetCode-/tree/master/0986-interval-list-intersections) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vayugautam/LeetCode-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vayugautam/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -264,6 +265,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vayugautam/LeetCode-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vayugautam/LeetCode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vayugautam/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vayugautam/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vayugautam/LeetCode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
@@ -274,6 +276,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/vayugautam/LeetCode-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vayugautam/LeetCode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vayugautam/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vayugautam/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
