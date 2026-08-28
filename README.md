@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vayugautam/LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vayugautam/LeetCode-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vayugautam/LeetCode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vayugautam/LeetCode-/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vayugautam/LeetCode-/tree/master/0063-unique-paths-ii) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vayugautam/LeetCode-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vayugautam/LeetCode-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vayugautam/LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/vayugautam/LeetCode-/tree/master/0118-pascals-triangle) |
@@ -284,6 +286,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vayugautam/LeetCode-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vayugautam/LeetCode-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/vayugautam/LeetCode-/tree/master/0860-lemonade-change) |
