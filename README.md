@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/vayugautam/LeetCode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vayugautam/LeetCode-/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/vayugautam/LeetCode-/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/vayugautam/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/vayugautam/LeetCode-/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/vayugautam/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vayugautam/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
