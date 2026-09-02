@@ -14,6 +14,7 @@
 | [0063-unique-paths-ii](https://github.com/vayugautam/LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/vayugautam/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vayugautam/LeetCode-/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/vayugautam/LeetCode-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vayugautam/LeetCode-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vayugautam/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -387,6 +388,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vayugautam/LeetCode-/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/vayugautam/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/vayugautam/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vayugautam/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
