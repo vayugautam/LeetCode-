@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/vayugautam/LeetCode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vayugautam/LeetCode-/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vayugautam/LeetCode-/tree/master/0063-unique-paths-ii) |
+| [0088-merge-sorted-array](https://github.com/vayugautam/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vayugautam/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vayugautam/LeetCode-/tree/master/0198-house-robber) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vayugautam/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/vayugautam/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vayugautam/LeetCode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vayugautam/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vayugautam/LeetCode-/tree/master/0202-happy-number) |
@@ -94,6 +96,7 @@
 | [0015-3sum](https://github.com/vayugautam/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/vayugautam/LeetCode-/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/vayugautam/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/vayugautam/LeetCode-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
