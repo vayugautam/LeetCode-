@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/vayugautam/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/vayugautam/LeetCode-/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/vayugautam/LeetCode-/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/vayugautam/LeetCode-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/vayugautam/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/vayugautam/LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vayugautam/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
