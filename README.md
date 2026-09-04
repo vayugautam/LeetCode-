@@ -31,6 +31,7 @@
 | [0525-contiguous-array](https://github.com/vayugautam/LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vayugautam/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/vayugautam/LeetCode-/tree/master/0565-array-nesting) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/vayugautam/LeetCode-/tree/master/0704-binary-search) |
@@ -95,6 +96,7 @@
 | [0283-move-zeroes](https://github.com/vayugautam/LeetCode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vayugautam/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/vayugautam/LeetCode-/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vayugautam/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0986-interval-list-intersections](https://github.com/vayugautam/LeetCode-/tree/master/0986-interval-list-intersections) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vayugautam/LeetCode-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -108,6 +110,7 @@
 | [0056-merge-intervals](https://github.com/vayugautam/LeetCode-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vayugautam/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/vayugautam/LeetCode-/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vayugautam/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/vayugautam/LeetCode-/tree/master/1288-remove-covered-intervals) |
@@ -317,6 +320,7 @@
 | [0055-jump-game](https://github.com/vayugautam/LeetCode-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vayugautam/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/vayugautam/LeetCode-/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/vayugautam/LeetCode-/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -437,10 +441,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0020-valid-parentheses) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
