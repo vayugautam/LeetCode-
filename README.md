@@ -37,6 +37,7 @@
 | [0704-binary-search](https://github.com/vayugautam/LeetCode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vayugautam/LeetCode-/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/vayugautam/LeetCode-/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/vayugautam/LeetCode-/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/vayugautam/DSA/tree/master/0904-fruit-into-baskets) |
@@ -381,6 +382,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vayugautam/LeetCode-/tree/master/0063-unique-paths-ii) |
+| [0835-image-overlap](https://github.com/vayugautam/LeetCode-/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/vayugautam/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/vayugautam/LeetCode-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vayugautam/LeetCode-/tree/master/1301-number-of-paths-with-max-score) |
