@@ -37,6 +37,7 @@
 | [0704-binary-search](https://github.com/vayugautam/LeetCode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vayugautam/LeetCode-/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/vayugautam/LeetCode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/vayugautam/LeetCode-/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/vayugautam/LeetCode-/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
@@ -182,6 +183,7 @@
 | [0377-combination-sum-iv](https://github.com/vayugautam/LeetCode-/tree/master/0377-combination-sum-iv) |
 | [0486-predict-the-winner](https://github.com/vayugautam/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vayugautam/LeetCode-/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/vayugautam/LeetCode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/vayugautam/LeetCode-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/vayugautam/LeetCode-/tree/master/0940-distinct-subsequences-ii) |
