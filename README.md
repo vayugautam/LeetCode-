@@ -361,6 +361,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vayugautam/LeetCode-/tree/master/0100-same-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vayugautam/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/vayugautam/LeetCode-/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vayugautam/LeetCode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -417,6 +418,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vayugautam/LeetCode-/tree/master/0100-same-tree) |
 | [0337-house-robber-iii](https://github.com/vayugautam/LeetCode-/tree/master/0337-house-robber-iii) |
 | [0565-array-nesting](https://github.com/vayugautam/LeetCode-/tree/master/0565-array-nesting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vayugautam/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -537,6 +539,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vayugautam/LeetCode-/tree/master/0100-same-tree) |
 | [0337-house-robber-iii](https://github.com/vayugautam/LeetCode-/tree/master/0337-house-robber-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vayugautam/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vayugautam/LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -547,6 +550,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vayugautam/LeetCode-/tree/master/0100-same-tree) |
 | [0337-house-robber-iii](https://github.com/vayugautam/LeetCode-/tree/master/0337-house-robber-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vayugautam/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vayugautam/LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
