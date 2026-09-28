@@ -341,6 +341,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vayugautam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/vayugautam/LeetCode-/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/vayugautam/LeetCode-/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vayugautam/LeetCode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/vayugautam/LeetCode-/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -511,6 +512,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vayugautam/LeetCode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/vayugautam/LeetCode-/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
