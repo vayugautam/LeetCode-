@@ -343,6 +343,7 @@
 | [0032-longest-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vayugautam/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/vayugautam/LeetCode-/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/vayugautam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/vayugautam/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/vayugautam/LeetCode-/tree/master/0796-rotate-string) |
@@ -411,6 +412,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vayugautam/LeetCode-/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vayugautam/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/vayugautam/LeetCode-/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/vayugautam/LeetCode-/tree/master/1096-brace-expansion-ii) |
@@ -596,6 +598,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vayugautam/LeetCode-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vayugautam/LeetCode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
