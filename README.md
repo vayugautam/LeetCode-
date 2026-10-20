@@ -24,6 +24,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/vayugautam/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/vayugautam/LeetCode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vayugautam/LeetCode-/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/vayugautam/LeetCode-/tree/master/0303-range-sum-query-immutable) |
 | [0377-combination-sum-iv](https://github.com/vayugautam/LeetCode-/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/vayugautam/LeetCode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vayugautam/LeetCode-/tree/master/0485-max-consecutive-ones) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vayugautam/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/vayugautam/LeetCode-/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/vayugautam/LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vayugautam/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/vayugautam/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -693,4 +695,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vayugautam/LeetCode-/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vayugautam/LeetCode-/tree/master/1401-circle-and-rectangle-overlapping) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vayugautam/LeetCode-/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
