@@ -30,6 +30,7 @@
 | [0485-max-consecutive-ones](https://github.com/vayugautam/LeetCode-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/vayugautam/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/vayugautam/LeetCode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vayugautam/LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/vayugautam/LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vayugautam/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/vayugautam/LeetCode-/tree/master/0565-array-nesting) |
@@ -561,6 +562,7 @@
 | [0032-longest-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/vayugautam/LeetCode-/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/vayugautam/LeetCode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vayugautam/LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/vayugautam/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vayugautam/LeetCode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -576,6 +578,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vayugautam/LeetCode-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vayugautam/LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
