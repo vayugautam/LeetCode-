@@ -557,6 +557,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/vayugautam/LeetCode-/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/vayugautam/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vayugautam/LeetCode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -698,5 +699,6 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vayugautam/LeetCode-/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/vayugautam/LeetCode-/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
