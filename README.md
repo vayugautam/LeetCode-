@@ -29,6 +29,7 @@
 | [0455-assign-cookies](https://github.com/vayugautam/LeetCode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vayugautam/LeetCode-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/vayugautam/LeetCode-/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/vayugautam/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/vayugautam/LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vayugautam/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/vayugautam/LeetCode-/tree/master/0565-array-nesting) |
@@ -241,6 +242,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/vayugautam/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vayugautam/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/vayugautam/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/vayugautam/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/vayugautam/LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vayugautam/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/vayugautam/LeetCode-/tree/master/0621-task-scheduler) |
@@ -558,6 +560,7 @@
 | [0020-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/vayugautam/LeetCode-/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/vayugautam/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/vayugautam/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vayugautam/LeetCode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -572,6 +575,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vayugautam/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vayugautam/LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vayugautam/LeetCode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
