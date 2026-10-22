@@ -112,6 +112,7 @@
 | [0015-3sum](https://github.com/vayugautam/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vayugautam/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/vayugautam/LeetCode-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vayugautam/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vayugautam/LeetCode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vayugautam/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vayugautam/LeetCode-/tree/master/0202-happy-number) |
@@ -365,6 +366,7 @@
 | [0032-longest-valid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vayugautam/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/vayugautam/LeetCode-/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/vayugautam/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/vayugautam/LeetCode-/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/vayugautam/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vayugautam/LeetCode-/tree/master/0409-longest-palindrome) |
